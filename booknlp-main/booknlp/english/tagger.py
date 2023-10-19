@@ -29,7 +29,7 @@ class Tagger(nn.Module):
 
 			modelSize=self.num_layers*bert_dim
 
-		assert bert_dim != 0
+		#assert bert_dim != 0
 		
 		self.tagset=tagset
 		self.tagset_flat=tagset_flat
@@ -94,7 +94,6 @@ class Tagger(nn.Module):
 
 		self.bert_params={}
 		self.everything_else_params={}
-
 	def forwardFlatSequence(self, input_ids, token_type_ids=None, attention_mask=None, transforms=None, labels=None):
 
 		batch_s, max_len=input_ids.shape

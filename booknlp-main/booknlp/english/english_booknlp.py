@@ -18,6 +18,7 @@ from pathlib import Path
 import urllib.request 
 import pkg_resources
 import torch
+import requests
 
 class EnglishBookNLP:
 
@@ -60,17 +61,17 @@ class EnglishBookNLP:
 				self.entityPath=os.path.join(modelPath, entityName)
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
 				self.coref_model=os.path.join(modelPath, corefName)
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
 				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
 
 
 			elif model_params["model"] == "small":
