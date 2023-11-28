@@ -22,7 +22,7 @@ from tqdm import tqdm
 from os import listdir
 from os.path import isfile
 import os
-from common.pipelines import Token
+from booknlp.common.pipelines import Token
 
 import random
 

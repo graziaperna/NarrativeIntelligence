@@ -9,7 +9,7 @@ import torch
 import numpy as np
 import argparse
 import json
-from common.b3 import b3
+from booknlp.common.b3 import b3
 
 from collections import Counter
 

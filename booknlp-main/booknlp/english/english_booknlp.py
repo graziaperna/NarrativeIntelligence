@@ -1,13 +1,13 @@
 import sys
 import spacy
 import copy
-from common.pipelines import SpacyPipeline
-from english.entity_tagger import LitBankEntityTagger
-from english.gender_inference_model_1 import GenderEM
-from english.name_coref import NameCoref
-from english.litbank_coref import LitBankCoref
-from english.litbank_quote import QuoteTagger
-from english.bert_qa import QuotationAttribution
+from booknlp.common.pipelines import SpacyPipeline
+from booknlp.english.entity_tagger import LitBankEntityTagger
+from booknlp.english.gender_inference_model_1 import GenderEM
+from booknlp.english.name_coref import NameCoref
+from booknlp.english.litbank_coref import LitBankCoref
+from booknlp.english.litbank_quote import QuoteTagger
+from booknlp.english.bert_qa import QuotationAttribution
 from os.path import join
 import os
 import json
@@ -18,8 +18,10 @@ from pathlib import Path
 import urllib.request 
 import pkg_resources
 import torch
+import requests
 
 class EnglishBookNLP:
+
 
 	def __init__(self, model_params):
 
@@ -44,8 +46,14 @@ class EnglishBookNLP:
 			if "referential_gender_cats" in model_params:
 				self.gender_cats=model_params["referential_gender_cats"]
 
-			home = str(Path.home())
-			modelPath=os.path.join(home, "booknlp_models")
+			scriptPath = os.path.abspath(__file__)
+			scriptDirectory = os.path.dirname(scriptPath)
+			modelPath = os.path.join(scriptDirectory, "huggingface")
+			
+			if not os.path.exists(modelPath):
+				os.makedirs(modelPath)
+			print("Path of booknlp_models:", modelPath)
+
 			if "model_path"  in model_params:			
 				modelPath=model_params["model_path"]
 
@@ -60,17 +68,17 @@ class EnglishBookNLP:
 				self.entityPath=os.path.join(modelPath, entityName)
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
 
 				self.coref_model=os.path.join(modelPath, corefName)
 				if not Path(self.coref_model).is_file():
 					print("downloading %s" % corefName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % corefName, self.coref_model)
 
 				self.quoteAttribModel=os.path.join(modelPath, quoteAttribName)
 				if not Path(self.quoteAttribModel).is_file():
 					print("downloading %s" % quoteAttribName)
-					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
+					requests.get("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % quoteAttribName, self.quoteAttribModel)
 
 
 			elif model_params["model"] == "small":
@@ -79,6 +87,7 @@ class EnglishBookNLP:
 				quoteAttribName="speaker_google_bert_uncased_L-8_H-256_A-4-v1.0.1.model"
 
 				self.entityPath=os.path.join(modelPath, entityName)
+				
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)

@@ -7,15 +7,15 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch
 import numpy as np
-import common.crf as crf
-import common.sequence_eval as sequence_eval
+import booknlp.common.crf as crf
+import booknlp.common.sequence_eval as sequence_eval
 from torch.nn import CrossEntropyLoss
 
 class Tagger(nn.Module):
 
+	
 	def __init__(self, freeze_bert=False, base_model=None, tagset=None, supersense_tagset=None, tagset_flat=None, hidden_dim=100, flat_hidden_dim=200, device=None):
 		super(Tagger, self).__init__()
-
 		modelName=base_model
 		modelName=re.sub("^entities_", "", modelName)
 		modelName=re.sub("-v\d.*$", "", modelName)
@@ -29,7 +29,7 @@ class Tagger(nn.Module):
 
 			modelSize=self.num_layers*bert_dim
 
-		assert bert_dim != 0
+		#assert bert_dim != 0
 		
 		self.tagset=tagset
 		self.tagset_flat=tagset_flat
@@ -94,7 +94,6 @@ class Tagger(nn.Module):
 
 		self.bert_params={}
 		self.everything_else_params={}
-
 	def forwardFlatSequence(self, input_ids, token_type_ids=None, attention_mask=None, transforms=None, labels=None):
 
 		batch_s, max_len=input_ids.shape

@@ -5,7 +5,7 @@ logging.set_verbosity_error()
 from pathlib import Path
 import os
 import booknlp
-from english.english_booknlp import EnglishBookNLP
+from booknlp.english.english_booknlp import EnglishBookNLP
 
 class BookNLP():
 
@@ -48,5 +48,5 @@ def proc():
 	booknlp=BookNLP(language, model_params)
 	booknlp.process(inputFile, outputFolder, idd)
 		
-if __name__ is "__main__":
+if __name__ == "__main__":
 	proc()

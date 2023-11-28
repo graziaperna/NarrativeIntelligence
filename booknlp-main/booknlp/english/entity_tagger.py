@@ -1,21 +1,22 @@
-from english.tagger import Tagger
+from booknlp.english.tagger import Tagger
 import torch
 import re
-import common.layered_reader as layered_reader
-import common.sequence_layered_reader as sequence_layered_reader
+import booknlp.common.layered_reader as layered_reader
+import booknlp.common.sequence_layered_reader as sequence_layered_reader
 import pkg_resources
 
 class LitBankEntityTagger:
 	def __init__(self, model_file, model_tagset):
 
+		
 		device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 		self.tagset=sequence_layered_reader.read_tagset(model_tagset)
 		supersenseTagset = pkg_resources.resource_filename(__name__, "data/supersense.tagset")
 
 		self.supersense_tagset=sequence_layered_reader.read_tagset(supersenseTagset)
-		base_model=re.sub("google_bert", "google/bert", model_file.split("/")[-1])
+		base_model=re.sub("google_bert", "google$bert", model_file)
+		base_model = base_model.split("$")[-1]
 		base_model=re.sub(".model", "", base_model)
-
 		self.model = Tagger(freeze_bert=False, base_model=base_model, tagset_flat={"EVENT":1, "O":1}, supersense_tagset=self.supersense_tagset, tagset=self.tagset, device=device)
 
 		self.model.to(device)
