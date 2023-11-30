@@ -12,8 +12,10 @@ class LitBankCoref:
 
 		device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-		base_model=re.sub("google_bert", "google/bert", modelFile.split("/")[-1])
-		base_model=re.sub(".model", "", base_model)
+		base_model=re.sub(".model", "", modelFile)
+		base_model=re.sub("google_bert", "google$bert", base_model)
+		base_model=base_model.split("$")[-1]
+		
 
 		self.model = BERTCorefTagger(gender_cats=gender_cats, freeze_bert=True, base_model=base_model, pronominalCorefOnly=pronominalCorefOnly)
 		self.model.load_state_dict(torch.load(modelFile, map_location=device))

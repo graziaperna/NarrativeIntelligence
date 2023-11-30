@@ -54,7 +54,7 @@ class Tagger(nn.Module):
 		self.rev_supersense_tagset[len(supersense_tagset)+1]="O"
 
 		self.num_labels_flat=len(tagset_flat)
-
+		
 		self.tokenizer = BertTokenizer.from_pretrained(modelName, do_lower_case=False, do_basic_tokenize=False)
 		self.bert = BertModel.from_pretrained(modelName)
 

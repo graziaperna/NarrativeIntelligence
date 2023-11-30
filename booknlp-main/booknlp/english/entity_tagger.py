@@ -13,8 +13,11 @@ class LitBankEntityTagger:
 		supersenseTagset = pkg_resources.resource_filename(__name__, "data/supersense.tagset")
 
 		self.supersense_tagset=sequence_layered_reader.read_tagset(supersenseTagset)
-		base_model=re.sub("google_bert", "google/bert", model_file.split("/")[-1])
-		base_model=re.sub(".model", "", base_model)
+
+		base_model=re.sub(".model", "", model_file)
+		base_model=re.sub("google_bert", "google$bert", base_model)
+		base_model=base_model.split("$")[-1]
+		
 
 		self.model = Tagger(freeze_bert=False, base_model=base_model, tagset_flat={"EVENT":1, "O":1}, supersense_tagset=self.supersense_tagset, tagset=self.tagset, device=device)
 

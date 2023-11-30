@@ -46,7 +46,8 @@ class EnglishBookNLP:
 				self.gender_cats=model_params["referential_gender_cats"]
 
 			home = str(Path.home())
-			modelPath=os.path.join(home, "booknlp_models")
+			modelPath=os.path.join(home, "huggingface")
+			print("PATH",modelPath)
 			if "model_path"  in model_params:			
 				modelPath=model_params["model_path"]
 
