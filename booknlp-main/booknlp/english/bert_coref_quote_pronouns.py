@@ -13,11 +13,11 @@ import torch.optim as optim
 import numpy as np
 import random
 
-from common.pipelines import Token, Entity
-from english.litbank_quote import QuoteTagger
-from english.name_coref import NameCoref
+from booknlp.common.pipelines import Token, Entity
+from booknlp.english.litbank_quote import QuoteTagger
+from booknlp.english.name_coref import NameCoref
 
-from english.bert_qa import QuotationAttribution
+from booknlp.english.bert_qa import QuotationAttribution
 
 random.seed(1)
 np.random.seed(1)

@@ -1,13 +1,13 @@
 import sys
 import spacy
 import copy
-from common.pipelines import SpacyPipeline
-from english.entity_tagger import LitBankEntityTagger
-from english.gender_inference_model_1 import GenderEM
-from english.name_coref import NameCoref
-from english.litbank_coref import LitBankCoref
-from english.litbank_quote import QuoteTagger
-from english.bert_qa import QuotationAttribution
+from booknlp.common.pipelines import SpacyPipeline
+from booknlp.english.entity_tagger import LitBankEntityTagger
+from booknlp.english.gender_inference_model_1 import GenderEM
+from booknlp.english.name_coref import NameCoref
+from booknlp.english.litbank_coref import LitBankCoref
+from booknlp.english.litbank_quote import QuoteTagger
+from booknlp.english.bert_qa import QuotationAttribution
 from os.path import join
 import os
 import json
@@ -21,6 +21,7 @@ import torch
 import requests
 
 class EnglishBookNLP:
+
 
 	def __init__(self, model_params):
 
@@ -81,6 +82,7 @@ class EnglishBookNLP:
 				quoteAttribName="speaker_google_bert_uncased_L-8_H-256_A-4-v1.0.1.model"
 
 				self.entityPath=os.path.join(modelPath, entityName)
+				
 				if not Path(self.entityPath).is_file():
 					print("downloading %s" % entityName)
 					urllib.request.urlretrieve("http://ischool.berkeley.edu/~dbamman/booknlp_models/%s" % entityName, self.entityPath)
