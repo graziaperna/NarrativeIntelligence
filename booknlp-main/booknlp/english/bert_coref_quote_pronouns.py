@@ -618,7 +618,7 @@ class BERTCorefTagger(nn.Module):
 		tok_sent_idx=0
 		lastSent=None
 		toks=[]
-		with open(filename) as file:
+		with open(filename, encoding='utf-8') as file:
 			file.readline()
 			for line in file:
 				cols=line.rstrip().split("\t")
