@@ -12,12 +12,12 @@
     "entita": "LOC"
   },
   {
-    "testo": "Pasqua",
-    "entita": "MISC"
+    "testo": "Bastiano",
+    "entita": "LOC"
   },
   {
-    "testo": "Bastiano",
-    "entita": "PER"
+    "testo": "tracolla",
+    "entita": "LOC"
   },
   {
     "testo": "Bastiano",
@@ -26,14 +26,6 @@
   {
     "testo": "Malignoni",
     "entita": "PER"
-  },
-  {
-    "testo": "Monza",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Prima",
-    "entita": "MISC"
   },
   {
     "testo": "Torno",
@@ -52,12 +44,16 @@
     "entita": "PER"
   },
   {
+    "testo": "Spiegò",
+    "entita": "PER"
+  },
+  {
     "testo": "Paolina",
-    "entita": "LOC"
+    "entita": "PER"
   },
   {
     "testo": "Josafat",
-    "entita": "PER"
+    "entita": "LOC"
   },
   {
     "testo": "Paolina",
@@ -81,79 +77,19 @@
   },
   {
     "testo": "Malignoni",
-    "entita": "MISC"
+    "entita": "PER"
   },
   {
-    "testo": "Sei",
-    "entita": "MISC"
-  },
-  {
-    "testo": "contenta",
-    "entita": "MISC"
-  },
-  {
-    "testo": "?",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Hai",
-    "entita": "MISC"
-  },
-  {
-    "testo": "fame",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Io",
-    "entita": "MISC"
-  },
-  {
-    "testo": "ho",
-    "entita": "MISC"
-  },
-  {
-    "testo": "fame",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Io",
-    "entita": "MISC"
-  },
-  {
-    "testo": "no",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Vuoi",
-    "entita": "LOC"
-  },
-  {
-    "testo": "No",
+    "testo": "Nulla",
     "entita": "LOC"
   },
   {
     "testo": "Vuoi",
-    "entita": "LOC"
+    "entita": "PER"
   },
   {
-    "testo": "Ti",
-    "entita": "MISC"
-  },
-  {
-    "testo": "pare",
-    "entita": "MISC"
-  },
-  {
-    "testo": "?",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
+    "testo": "Vuoi",
+    "entita": "PER"
   },
   {
     "testo": "Tornavano",
@@ -168,7 +104,19 @@
     "entita": "LOC"
   },
   {
+    "testo": "bacino",
+    "entita": "LOC"
+  },
+  {
+    "testo": "di",
+    "entita": "LOC"
+  },
+  {
     "testo": "Argegno",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Vedeva",
     "entita": "LOC"
   },
   {
@@ -189,19 +137,7 @@
   },
   {
     "testo": "Paolina",
-    "entita": "MISC"
-  },
-  {
-    "testo": "!",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Belaccio",
-    "entita": "ORG"
+    "entita": "LOC"
   },
   {
     "testo": "Belaccio",
@@ -209,7 +145,7 @@
   },
   {
     "testo": "Bastiano",
-    "entita": "PER"
+    "entita": "LOC"
   },
   {
     "testo": "Hôtel",
@@ -217,15 +153,11 @@
   },
   {
     "testo": "Paolina",
-    "entita": "PER"
-  },
-  {
-    "testo": "Trattoria",
-    "entita": "ORG"
+    "entita": "LOC"
   },
   {
     "testo": "Americana",
-    "entita": "ORG"
+    "entita": "LOC"
   },
   {
     "testo": "Americana",
@@ -233,10 +165,14 @@
   },
   {
     "testo": "Bastiano",
-    "entita": "PER"
+    "entita": "LOC"
   },
   {
     "testo": "Oui",
+    "entita": "LOC"
+  },
+  {
+    "testo": "monsieur",
     "entita": "LOC"
   },
   {
@@ -244,12 +180,24 @@
     "entita": "LOC"
   },
   {
+    "testo": "monsieur",
+    "entita": "LOC"
+  },
+  {
+    "testo": "entrez",
+    "entita": "LOC"
+  },
+  {
     "testo": "Americana",
     "entita": "LOC"
   },
   {
     "testo": "Bastiano",
-    "entita": "PER"
+    "entita": "LOC"
+  },
+  {
+    "testo": "yes",
+    "entita": "ORG"
   },
   {
     "testo": "Paolina",
@@ -264,67 +212,55 @@
     "entita": "LOC"
   },
   {
+    "testo": "Cosa",
+    "entita": "ORG"
+  },
+  {
+    "testo": "?",
+    "entita": "ORG"
+  },
+  {
     "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "luna",
+    "entita": "LOC"
+  },
+  {
+    "testo": "bien",
     "entita": "LOC"
   },
   {
     "testo": "Paolina",
-    "entita": "LOC"
+    "entita": "PER"
   },
   {
     "testo": "Malignoni",
-    "entita": "MISC"
+    "entita": "PER"
   },
   {
     "testo": "Americana",
-    "entita": "MISC"
-  },
-  {
-    "testo": "A",
-    "entita": "MISC"
-  },
-  {
-    "testo": "me",
-    "entita": "MISC"
-  },
-  {
-    "testo": "?",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Abbiamo",
     "entita": "LOC"
   },
   {
-    "testo": "Per",
-    "entita": "MISC"
-  },
-  {
-    "testo": "me",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Che",
-    "entita": "MISC"
-  },
-  {
-    "testo": "vuoi",
-    "entita": "MISC"
-  },
-  {
-    "testo": "fare",
-    "entita": "MISC"
+    "testo": "Vuoi",
+    "entita": "PER"
   },
   {
     "testo": "Ebbene",
     "entita": "LOC"
   },
   {
+    "testo": "Sai",
+    "entita": "PER"
+  },
+  {
     "testo": "Americana",
     "entita": "LOC"
   },
   {
-    "testo": "No",
+    "testo": "Almeno",
     "entita": "LOC"
   },
   {
@@ -333,94 +269,26 @@
   },
   {
     "testo": "Americana",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Me",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Ti",
-    "entita": "MISC"
-  },
-  {
-    "testo": "pare",
-    "entita": "MISC"
-  },
-  {
-    "testo": "?",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
+    "entita": "LOC"
   },
   {
     "testo": "Addio",
-    "entita": "MISC"
-  },
-  {
-    "testo": ",",
-    "entita": "MISC"
-  },
-  {
-    "testo": "angelo",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Io",
-    "entita": "MISC"
-  },
-  {
-    "testo": "ti",
-    "entita": "MISC"
-  },
-  {
-    "testo": "aspetto",
-    "entita": "MISC"
-  },
-  {
-    "testo": "qui",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Che",
-    "entita": "MISC"
-  },
-  {
-    "testo": "ragazzo",
-    "entita": "MISC"
-  },
-  {
-    "testo": "!",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
-  },
-  {
-    "testo": "--",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Stella",
-    "entita": "MISC"
-  },
-  {
-    "testo": "!",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Bastiano",
     "entita": "PER"
   },
   {
-    "testo": "Passata",
+    "testo": "Stella",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bastiano",
     "entita": "PER"
   },
   {
@@ -429,39 +297,23 @@
   },
   {
     "testo": "Perdoni",
+    "entita": "PER"
+  },
+  {
+    "testo": "uscio",
     "entita": "LOC"
-  },
-  {
-    "testo": "La",
-    "entita": "MISC"
-  },
-  {
-    "testo": "chiave",
-    "entita": "MISC"
-  },
-  {
-    "testo": "?",
-    "entita": "MISC"
   },
   {
     "testo": "Domandi",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Meno",
-    "entita": "MISC"
-  },
-  {
-    "testo": "male",
-    "entita": "MISC"
-  },
-  {
-    "testo": "!",
-    "entita": "MISC"
+    "entita": "PER"
   },
   {
     "testo": "Bastiano",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": "biondino",
+    "entita": "PER"
   },
   {
     "testo": "Bastiano",
@@ -472,43 +324,15 @@
     "entita": "LOC"
   },
   {
-    "testo": "Monza",
+    "testo": "Vogliono",
     "entita": "LOC"
   },
   {
     "testo": "Was",
-    "entita": "LOC"
+    "entita": "PER"
   },
   {
     "testo": "Bellagio",
     "entita": "LOC"
-  },
-  {
-    "testo": "Was",
-    "entita": "MISC"
-  },
-  {
-    "testo": "sagen",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Sie",
-    "entita": "MISC"
-  },
-  {
-    "testo": "Ah",
-    "entita": "MISC"
-  },
-  {
-    "testo": "gabbiano",
-    "entita": "MISC"
-  },
-  {
-    "testo": "!",
-    "entita": "MISC"
-  },
-  {
-    "testo": "\n",
-    "entita": "MISC"
   }
 ]
