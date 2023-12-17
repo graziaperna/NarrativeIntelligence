@@ -1,1 +1,526 @@
-[]
+[
+  {
+    "testo": "spuntò",
+    "entita": "Event"
+  },
+  {
+    "testo": "riposato",
+    "entita": "Event"
+  },
+  {
+    "testo": "continuarono",
+    "entita": "Event"
+  },
+  {
+    "testo": "acquazzone",
+    "entita": "Event"
+  },
+  {
+    "testo": "osservava",
+    "entita": "Event"
+  },
+  {
+    "testo": "prestare",
+    "entita": "Event"
+  },
+  {
+    "testo": "investiva",
+    "entita": "Event"
+  },
+  {
+    "testo": "incartocciava",
+    "entita": "Event"
+  },
+  {
+    "testo": "socchiudeva",
+    "entita": "Event"
+  },
+  {
+    "testo": "abbottonato",
+    "entita": "Event"
+  },
+  {
+    "testo": "passare",
+    "entita": "Event"
+  },
+  {
+    "testo": "dimenticò",
+    "entita": "Event"
+  },
+  {
+    "testo": "urtò",
+    "entita": "Event"
+  },
+  {
+    "testo": "facendovi",
+    "entita": "Event"
+  },
+  {
+    "testo": "portava",
+    "entita": "Event"
+  },
+  {
+    "testo": "ebbe",
+    "entita": "Event"
+  },
+  {
+    "testo": "occupati",
+    "entita": "Event"
+  },
+  {
+    "testo": "pagare",
+    "entita": "Event"
+  },
+  {
+    "testo": "arrossendo",
+    "entita": "Event"
+  },
+  {
+    "testo": "Spiegò",
+    "entita": "Event"
+  },
+  {
+    "testo": "dimostrandole",
+    "entita": "Event"
+  },
+  {
+    "testo": "girare",
+    "entita": "Event"
+  },
+  {
+    "testo": "voltando",
+    "entita": "Event"
+  },
+  {
+    "testo": "svolazzava",
+    "entita": "Event"
+  },
+  {
+    "testo": "stridendo",
+    "entita": "Event"
+  },
+  {
+    "testo": "folleggiando",
+    "entita": "Event"
+  },
+  {
+    "testo": "investì",
+    "entita": "Event"
+  },
+  {
+    "testo": "risaliva",
+    "entita": "Event"
+  },
+  {
+    "testo": "vederla",
+    "entita": "Event"
+  },
+  {
+    "testo": "parve",
+    "entita": "Event"
+  },
+  {
+    "testo": "parve",
+    "entita": "Event"
+  },
+  {
+    "testo": "girando",
+    "entita": "Event"
+  },
+  {
+    "testo": "amato",
+    "entita": "Event"
+  },
+  {
+    "testo": "voluto",
+    "entita": "Event"
+  },
+  {
+    "testo": "vedersela",
+    "entita": "Event"
+  },
+  {
+    "testo": "contando",
+    "entita": "Event"
+  },
+  {
+    "testo": "stringeva",
+    "entita": "Event"
+  },
+  {
+    "testo": "tacere",
+    "entita": "Event"
+  },
+  {
+    "testo": "suono",
+    "entita": "Event"
+  },
+  {
+    "testo": "ridesta",
+    "entita": "Event"
+  },
+  {
+    "testo": "occupava",
+    "entita": "Event"
+  },
+  {
+    "testo": "augurava",
+    "entita": "Event"
+  },
+  {
+    "testo": "mirava",
+    "entita": "Event"
+  },
+  {
+    "testo": "Vedeva",
+    "entita": "Event"
+  },
+  {
+    "testo": "lasciata",
+    "entita": "Event"
+  },
+  {
+    "testo": "procedeva",
+    "entita": "Event"
+  },
+  {
+    "testo": "faceva",
+    "entita": "Event"
+  },
+  {
+    "testo": "correvano",
+    "entita": "Event"
+  },
+  {
+    "testo": "venivano",
+    "entita": "Event"
+  },
+  {
+    "testo": "intendevano",
+    "entita": "Event"
+  },
+  {
+    "testo": "spalancarsi",
+    "entita": "Event"
+  },
+  {
+    "testo": "nebbia",
+    "entita": "Event"
+  },
+  {
+    "testo": "spari",
+    "entita": "Event"
+  },
+  {
+    "testo": "passavano",
+    "entita": "Event"
+  },
+  {
+    "testo": "svegliarono",
+    "entita": "Event"
+  },
+  {
+    "testo": "segnavano",
+    "entita": "Event"
+  },
+  {
+    "testo": "discendere",
+    "entita": "Event"
+  },
+  {
+    "testo": "accalcandosi",
+    "entita": "Event"
+  },
+  {
+    "testo": "schivare",
+    "entita": "Event"
+  },
+  {
+    "testo": "pregava",
+    "entita": "Event"
+  },
+  {
+    "testo": "tolse",
+    "entita": "Event"
+  },
+  {
+    "testo": "domandò",
+    "entita": "Event"
+  },
+  {
+    "testo": "passò",
+    "entita": "Event"
+  },
+  {
+    "testo": "buttò",
+    "entita": "Event"
+  },
+  {
+    "testo": "tornò",
+    "entita": "Event"
+  },
+  {
+    "testo": "sentendosi",
+    "entita": "Event"
+  },
+  {
+    "testo": "parlare",
+    "entita": "Event"
+  },
+  {
+    "testo": "ribadire",
+    "entita": "Event"
+  },
+  {
+    "testo": "insaccato",
+    "entita": "Event"
+  },
+  {
+    "testo": "fermò",
+    "entita": "Event"
+  },
+  {
+    "testo": "precedette",
+    "entita": "Event"
+  },
+  {
+    "testo": "tintinnando",
+    "entita": "Event"
+  },
+  {
+    "testo": "condusse",
+    "entita": "Event"
+  },
+  {
+    "testo": "disse",
+    "entita": "Event"
+  },
+  {
+    "testo": "licenziarsi",
+    "entita": "Event"
+  },
+  {
+    "testo": "domandò",
+    "entita": "Event"
+  },
+  {
+    "testo": "credere",
+    "entita": "Event"
+  },
+  {
+    "testo": "affrettò",
+    "entita": "Event"
+  },
+  {
+    "testo": "guardarono",
+    "entita": "Event"
+  },
+  {
+    "testo": "disse",
+    "entita": "Event"
+  },
+  {
+    "testo": "ficcando",
+    "entita": "Event"
+  },
+  {
+    "testo": "esclamò",
+    "entita": "Event"
+  },
+  {
+    "testo": "carezzò",
+    "entita": "Event"
+  },
+  {
+    "testo": "uscì",
+    "entita": "Event"
+  },
+  {
+    "testo": "girò",
+    "entita": "Event"
+  },
+  {
+    "testo": "tolse",
+    "entita": "Event"
+  },
+  {
+    "testo": "gettò",
+    "entita": "Event"
+  },
+  {
+    "testo": "chiuse",
+    "entita": "Event"
+  },
+  {
+    "testo": "buttò",
+    "entita": "Event"
+  },
+  {
+    "testo": "portò",
+    "entita": "Event"
+  },
+  {
+    "testo": "pianse",
+    "entita": "Event"
+  },
+  {
+    "testo": "pianse",
+    "entita": "Event"
+  },
+  {
+    "testo": "uscì",
+    "entita": "Event"
+  },
+  {
+    "testo": "sentiva",
+    "entita": "Event"
+  },
+  {
+    "testo": "agitazione",
+    "entita": "Event"
+  },
+  {
+    "testo": "scoperta",
+    "entita": "Event"
+  },
+  {
+    "testo": "tornò",
+    "entita": "Event"
+  },
+  {
+    "testo": "trarne",
+    "entita": "Event"
+  },
+  {
+    "testo": "lasciata",
+    "entita": "Event"
+  },
+  {
+    "testo": "salito",
+    "entita": "Event"
+  },
+  {
+    "testo": "ricordò",
+    "entita": "Event"
+  },
+  {
+    "testo": "discese",
+    "entita": "Event"
+  },
+  {
+    "testo": "infilò",
+    "entita": "Event"
+  },
+  {
+    "testo": "pareva",
+    "entita": "Event"
+  },
+  {
+    "testo": "vedere",
+    "entita": "Event"
+  },
+  {
+    "testo": "discese",
+    "entita": "Event"
+  },
+  {
+    "testo": "accostò",
+    "entita": "Event"
+  },
+  {
+    "testo": "scrivendo",
+    "entita": "Event"
+  },
+  {
+    "testo": "domandò",
+    "entita": "Event"
+  },
+  {
+    "testo": "pensò",
+    "entita": "Event"
+  },
+  {
+    "testo": "capisce",
+    "entita": "Event"
+  },
+  {
+    "testo": "voltò",
+    "entita": "Event"
+  },
+  {
+    "testo": "cercare",
+    "entita": "Event"
+  },
+  {
+    "testo": "condotto",
+    "entita": "Event"
+  },
+  {
+    "testo": "stavano",
+    "entita": "Event"
+  },
+  {
+    "testo": "ricominciò",
+    "entita": "Event"
+  },
+  {
+    "testo": "andava",
+    "entita": "Event"
+  },
+  {
+    "testo": "vide",
+    "entita": "Event"
+  },
+  {
+    "testo": "osservavano",
+    "entita": "Event"
+  },
+  {
+    "testo": "rìdendo",
+    "entita": "Event"
+  },
+  {
+    "testo": "inteso",
+    "entita": "Event"
+  },
+  {
+    "testo": "parlare",
+    "entita": "Event"
+  },
+  {
+    "testo": "spinse",
+    "entita": "Event"
+  },
+  {
+    "testo": "esclamò",
+    "entita": "Event"
+  },
+  {
+    "testo": "domandò",
+    "entita": "Event"
+  },
+  {
+    "testo": "andando",
+    "entita": "Event"
+  },
+  {
+    "testo": "rivolto",
+    "entita": "Event"
+  },
+  {
+    "testo": "tornò",
+    "entita": "Event"
+  },
+  {
+    "testo": "ripetè",
+    "entita": "Event"
+  },
+  {
+    "testo": "nascondeva",
+    "entita": "Event"
+  },
+  {
+    "testo": "ridere",
+    "entita": "Event"
+  }
+]
