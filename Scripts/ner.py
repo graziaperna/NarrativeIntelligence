@@ -1,19 +1,20 @@
 import spacy
 import json
-
+import os
+from os.path import join
+from pathlib import Path
 class Ner:
-    def Ner(input_file, output_file,model):
+    def __init__(self,model):
         models={
             "big": "it_core_news_lg",
             "medium":"it_core_news_md",
             "small": "it_core_news_sm"
         }
 
-        for key in models.keys() :
-            if model==key:
-                model_path = models[key]
+        self.model_path = models[model]
 
-        nlp = spacy.load(model_path)
+    def processing_entity(self,input_file, output_file):
+        nlp = spacy.load(self.model_path)
         
         with open(input_file, 'r', encoding='utf-8') as file:
             testo = file.read()
