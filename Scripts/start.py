@@ -1,4 +1,5 @@
 from event import Event
+from ner import Ner
 
 def start():
         
@@ -14,10 +15,9 @@ def start():
     output_file_event = "data/output/output_event.json"
 
     if model_params["entity"] :
-        #Ner(input_file, output_file_entity, model_params["model_entity"])
-         print("ciao")
+        Ner(input_file, output_file_entity, model_params["model_entity"])
     else :
-        event = Event(input_file,output_file_event, model_params["model_event"])
+        Event(input_file,output_file_event, model_params["model_event"])
 
 if __name__ == "__main__":
 	start()
