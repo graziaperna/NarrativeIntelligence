@@ -6,7 +6,7 @@ def start():
     model_params={
             "entity": True, 
             "event": True, 
-            "model_entity": "small",
+            "model_entity": "big",
             "model_event": "small"
         }
 

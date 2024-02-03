@@ -19,4 +19,4 @@ def convert(lang: str, input_path: Path, output_path: Path):
 
 
 if __name__ == "__main__":
-    typer.run(convert)
+    typer.run(convert("it","data/annotations.jsonl","data/annotations.spacy"))

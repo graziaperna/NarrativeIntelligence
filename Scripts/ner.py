@@ -6,7 +6,7 @@ from pathlib import Path
 class Ner:
     def __init__(self,model):
         models={
-            "big": "it_core_news_lg",
+            "big": "data/output/model-best",
             "medium":"it_core_news_md",
             "small": "it_core_news_sm"
         }
