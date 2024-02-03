@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: throttlex
+Version: 1.0.0
+Summary: TimeStam eXtensions for Python
+Home-page: https://github.com/asuiu/throttlex
+Author: Andrei Suiu
+Author-email: andrei.suiu@gmail.com
+License: MIT
+Keywords: timestamp time date datetime ISO 8601
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: System :: Logging
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Internet :: Log Analysis
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# throttlex
+
+
+
+throttle**X** Python library

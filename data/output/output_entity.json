@@ -1,0 +1,338 @@
+[
+  {
+    "testo": "Como",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Tremezzina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Alpi",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "tracolla",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "Malignoni",
+    "entita": "PER"
+  },
+  {
+    "testo": "Torno",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "Cesare",
+    "entita": "PER"
+  },
+  {
+    "testo": "Cesare",
+    "entita": "PER"
+  },
+  {
+    "testo": "Spiegò",
+    "entita": "PER"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "Josafat",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "monte",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bisbino",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Malignoni",
+    "entita": "PER"
+  },
+  {
+    "testo": "Nulla",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Vuoi",
+    "entita": "PER"
+  },
+  {
+    "testo": "Vuoi",
+    "entita": "PER"
+  },
+  {
+    "testo": "Tornavano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Alpi",
+    "entita": "LOC"
+  },
+  {
+    "testo": "bacino",
+    "entita": "LOC"
+  },
+  {
+    "testo": "di",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Argegno",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Vedeva",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Sebastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bellagio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Menaggio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Scipio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Belaccio",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Hôtel",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Oui",
+    "entita": "LOC"
+  },
+  {
+    "testo": "monsieur",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Entrez",
+    "entita": "LOC"
+  },
+  {
+    "testo": "monsieur",
+    "entita": "LOC"
+  },
+  {
+    "testo": "entrez",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "yes",
+    "entita": "ORG"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "Hôtel",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bellagio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Cosa",
+    "entita": "ORG"
+  },
+  {
+    "testo": "?",
+    "entita": "ORG"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "luna",
+    "entita": "LOC"
+  },
+  {
+    "testo": "bien",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "Malignoni",
+    "entita": "PER"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Vuoi",
+    "entita": "PER"
+  },
+  {
+    "testo": "Ebbene",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Sai",
+    "entita": "PER"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Almeno",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Andiamo",
+    "entita": "PER"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Addio",
+    "entita": "PER"
+  },
+  {
+    "testo": "Stella",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Perdoni",
+    "entita": "PER"
+  },
+  {
+    "testo": "uscio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Domandi",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "biondino",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Bellagio",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Vogliono",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Was",
+    "entita": "PER"
+  },
+  {
+    "testo": "Bellagio",
+    "entita": "LOC"
+  }
+]
