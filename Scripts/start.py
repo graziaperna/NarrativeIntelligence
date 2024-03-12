@@ -1,12 +1,12 @@
 from event import Event
-from ner import Ner
+from ner_spacy import Ner
 
 def start():
         
     model_params={
             "entity": True, 
-            "event": True, 
-            "model_entity": "small",
+            "event": False, 
+            "model_entity": "medium",
             "model_event": "small"
         }
 

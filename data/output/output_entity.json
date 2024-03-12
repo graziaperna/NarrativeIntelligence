@@ -1,23 +1,1251 @@
 [
   {
+    "testo": "La",
+    "entita": ""
+  },
+  {
+    "testo": "giornata",
+    "entita": ""
+  },
+  {
+    "testo": "spuntò",
+    "entita": ""
+  },
+  {
+    "testo": "serena",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "limpida",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "sposi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "dopo",
+    "entita": ""
+  },
+  {
+    "testo": "aver",
+    "entita": ""
+  },
+  {
+    "testo": "riposato",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "notte",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
     "testo": "Como",
     "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "continuarono",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "loro",
+    "entita": ""
+  },
+  {
+    "testo": "viaggio",
+    "entita": ""
+  },
+  {
+    "testo": "verso",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
   },
   {
     "testo": "Tremezzina",
     "entita": "LOC"
   },
   {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "L",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "acquazzone",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "giorno",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "posto",
+    "entita": ""
+  },
+  {
+    "testo": "nell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aria",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "brividi",
+    "entita": ""
+  },
+  {
+    "testo": "precursori",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "lontano",
+    "entita": ""
+  },
+  {
+    "testo": "ottobre",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "cime",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "monti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "specialmente",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
     "testo": "Alpi",
     "entita": "LOC"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "brizzolate",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "neve",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "splendevano",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "raggio",
+    "entita": ""
+  },
+  {
+    "testo": "alquanto",
+    "entita": ""
+  },
+  {
+    "testo": "diluito",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "raffreddato",
+    "entita": ""
+  },
+  {
+    "testo": "nell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "atmosfera",
+    "entita": ""
+  },
+  {
+    "testo": "trasparente",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Qualche",
+    "entita": ""
+  },
+  {
+    "testo": "giogo",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "acuminato",
+    "entita": ""
+  },
+  {
+    "testo": "usciva",
+    "entita": ""
+  },
+  {
+    "testo": "dalle",
+    "entita": ""
+  },
+  {
+    "testo": "altre",
+    "entita": ""
+  },
+  {
+    "testo": "vette",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "vestito",
+    "entita": ""
+  },
+  {
+    "testo": "roseo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "allegro",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "quello",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "fanciulletta",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "giorno",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Pasqua",
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "cielo",
+    "entita": ""
+  },
+  {
+    "testo": "chiaro",
+    "entita": ""
+  },
+  {
+    "testo": "chiaro",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "scendendo",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "poco",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "poco",
+    "entita": ""
+  },
+  {
+    "testo": "lungo",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "schiena",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "monti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dopo",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "verde",
+    "entita": ""
+  },
+  {
+    "testo": "giallo",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "pascoli",
+    "entita": ""
+  },
+  {
+    "testo": "rasi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "vedevi",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "verde",
+    "entita": ""
+  },
+  {
+    "testo": "bruno",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "castani",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "poi",
+    "entita": ""
+  },
+  {
+    "testo": "sterratelli",
+    "entita": ""
+  },
+  {
+    "testo": "bianchi",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "campi",
+    "entita": ""
+  },
+  {
+    "testo": "seminati",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "saraceno",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "poi",
+    "entita": ""
+  },
+  {
+    "testo": "ancora",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "colori",
+    "entita": ""
+  },
+  {
+    "testo": "vivaci",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "giardini",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "bianco",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "villette",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "scappavano",
+    "entita": ""
+  },
+  {
+    "testo": "innanzi",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "battello",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dolci",
+    "entita": ""
+  },
+  {
+    "testo": "dolci",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "cartine",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "organetto",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "manubrio",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
     "testo": "Bastiano",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "sposo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "stando",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "piedi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "osservava",
+    "entita": ""
+  },
+  {
+    "testo": "queste",
+    "entita": ""
+  },
+  {
+    "testo": "meraviglie",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "cannocchiale",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "teatro",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "fatto",
+    "entita": ""
+  },
+  {
+    "testo": "prestare",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "qualcuno",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "quando",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "folata",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aria",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "investiva",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "fortemente",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "alle",
+    "entita": ""
+  },
+  {
+    "testo": "lenti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "incartocciava",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "faccia",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "socchiudeva",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "occhi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "quella",
+    "entita": ""
+  },
+  {
+    "testo": "espressione",
+    "entita": ""
+  },
+  {
+    "testo": "dolorosa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "hanno",
+    "entita": ""
+  },
+  {
+    "testo": "certe",
+    "entita": ""
+  },
+  {
+    "testo": "slavate",
+    "entita": ""
+  },
+  {
+    "testo": "sindoni",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "altare",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "campagna",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Si",
+    "entita": ""
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "abbottonato",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
+  },
+  {
+    "testo": "bel",
+    "entita": ""
+  },
+  {
+    "testo": "soprabito",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "autunno",
+    "entita": ""
+  },
+  {
+    "testo": "color",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "uva",
+    "entita": ""
+  },
+  {
+    "testo": "passa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "fino",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "bavero",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ma",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "valigietta",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "denari",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "posta",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
   },
   {
     "testo": "tracolla",
     "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "croce",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "questa",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "astuccio",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "cannocchiale",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "cadendo",
+    "entita": ""
+  },
+  {
+    "testo": "sui",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "fianchi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "facevano",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "rigonfiamento",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "fondo",
+    "entita": ""
+  },
+  {
+    "testo": "alla",
+    "entita": ""
+  },
+  {
+    "testo": "schiena",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "dava",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "arie",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "inglese",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "signor",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
@@ -28,40 +1256,1420 @@
     "entita": "PER"
   },
   {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Monza",
+    "entita": "LOC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Nel",
+    "entita": ""
+  },
+  {
+    "testo": "passare",
+    "entita": ""
+  },
+  {
+    "testo": "sul",
+    "entita": ""
+  },
+  {
+    "testo": "battello",
+    "entita": ""
+  },
+  {
+    "testo": "dimenticò",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "essere",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "uomo",
+    "entita": ""
+  },
+  {
+    "testo": "alto",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "urtò",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
+  },
+  {
+    "testo": "cappello",
+    "entita": ""
+  },
+  {
+    "testo": "nuovo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "incatramato",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "bel",
+    "entita": ""
+  },
+  {
+    "testo": "taglio",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "monzese",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "contro",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "voltino",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "facendovi",
+    "entita": ""
+  },
+  {
+    "testo": "dentro",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ammaccatura",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "triangolo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "egli",
+    "entita": ""
+  },
+  {
+    "testo": "portava",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "senza",
+    "entita": ""
+  },
+  {
+    "testo": "saperlo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "certa",
+    "entita": ""
+  },
+  {
+    "testo": "dignità",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Prima",
+    "entita": "MISC"
+  },
+  {
+    "testo": "ancora",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "arrivare",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
     "testo": "Torno",
     "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ebbe",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "battibecco",
+    "entita": ""
+  },
+  {
+    "testo": "col",
+    "entita": ""
+  },
+  {
+    "testo": "revisore",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "biglietti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "perchè",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "sposi",
+    "entita": ""
+  },
+  {
+    "testo": "avevano",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "fallo",
+    "entita": ""
+  },
+  {
+    "testo": "occupati",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "primi",
+    "entita": ""
+  },
+  {
+    "testo": "posti",
+    "entita": ""
+  },
+  {
+    "testo": "coi",
+    "entita": ""
+  },
+  {
+    "testo": "biglietti",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "secondi",
+    "entita": ""
+  },
+  {
+    "testo": ":",
+    "entita": ""
+  },
+  {
+    "testo": "fatto",
+    "entita": ""
+  },
+  {
+    "testo": "sta",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "signor",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
     "entita": "PER"
   },
   {
-    "testo": "Cesare",
-    "entita": "PER"
+    "testo": "dovette",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "faccia",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "tutti",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "signori",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "tutte",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "signore",
+    "entita": ""
+  },
+  {
+    "testo": "inglesi",
+    "entita": ""
+  },
+  {
+    "testo": "pagare",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "differenza",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "arrossendo",
+    "entita": ""
+  },
+  {
+    "testo": "fino",
+    "entita": ""
+  },
+  {
+    "testo": "alle",
+    "entita": ""
+  },
+  {
+    "testo": "orecchie",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "s",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "egli",
+    "entita": ""
+  },
+  {
+    "testo": "avesse",
+    "entita": ""
+  },
+  {
+    "testo": "avuto",
+    "entita": ""
+  },
+  {
+    "testo": "intenzione",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "dare",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
   },
   {
     "testo": "Cesare",
     "entita": "PER"
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "ch",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Cesare",
+    "entita": "PER"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Spiegò",
     "entita": "PER"
   },
   {
+    "testo": "poi",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "abbaglio",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "Paolina",
+    "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dimostrandole",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "sui",
+    "entita": ""
+  },
+  {
+    "testo": "bastimenti",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "acqua",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "primo",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "vagoni",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "terra",
+    "entita": ""
+  },
+  {
+    "testo": "diventa",
+    "entita": ""
+  },
+  {
+    "testo": "ultimo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "ivi",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "ultimo",
+    "entita": ""
+  },
+  {
+    "testo": "qui",
+    "entita": ""
+  },
+  {
+    "testo": "diventa",
+    "entita": ""
+  },
+  {
+    "testo": "primo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "precisamente",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "vedremo",
+    "entita": ""
+  },
+  {
+    "testo": "nella",
+    "entita": ""
+  },
+  {
+    "testo": "valle",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Josafat",
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "giorno",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "giudizio",
+    "entita": ""
+  },
+  {
+    "testo": "universale",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
     "testo": "Paolina",
     "entita": "PER"
   },
   {
-    "testo": "Josafat",
-    "entita": "LOC"
+    "testo": ",",
+    "entita": ""
   },
   {
-    "testo": "Paolina",
-    "entita": "LOC"
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sposa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "stava",
+    "entita": ""
+  },
+  {
+    "testo": "zitta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "gliene",
+    "entita": ""
+  },
+  {
+    "testo": "importasse",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "continuava",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "girare",
+    "entita": ""
+  },
+  {
+    "testo": "sopra",
+    "entita": ""
+  },
+  {
+    "testo": "sè",
+    "entita": ""
+  },
+  {
+    "testo": "stessa",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "contemplazione",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "spettacolo",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "intorno",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "voltando",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "caso",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "poco",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "spalle",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "marito",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Essa",
+    "entita": ""
+  },
+  {
+    "testo": "vestiva",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "abito",
+    "entita": ""
+  },
+  {
+    "testo": "povero",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "povero",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "color",
+    "entita": ""
+  },
+  {
+    "testo": "ferro",
+    "entita": ""
+  },
+  {
+    "testo": "brunito",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ma",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sposa",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "provincia",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "conosceva",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "oro",
+    "entita": ""
+  },
+  {
+    "testo": "giallo",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "sua",
+    "entita": ""
+  },
+  {
+    "testo": "guarnizione",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "cappellino",
+    "entita": ""
+  },
+  {
+    "testo": "col",
+    "entita": ""
+  },
+  {
+    "testo": "pettirosso",
+    "entita": ""
+  },
+  {
+    "testo": "schiacciato",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "angolo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "cinto",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "gran",
+    "entita": ""
+  },
+  {
+    "testo": "veletta",
+    "entita": ""
+  },
+  {
+    "testo": "celeste",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "svolazzava",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "stridendo",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "folleggiando",
+    "entita": ""
+  },
+  {
+    "testo": "sulla",
+    "entita": ""
+  },
+  {
+    "testo": "testa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sulle",
+    "entita": ""
+  },
+  {
+    "testo": "guancie",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pallide",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "sul",
+    "entita": ""
+  },
+  {
+    "testo": "collo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "vibrazioni",
+    "entita": ""
+  },
+  {
+    "testo": "serpentine",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Il",
+    "entita": ""
+  },
+  {
+    "testo": "sole",
+    "entita": ""
+  },
+  {
+    "testo": "dopo",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "svolto",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "investì",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "momento",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
     "entita": "PER"
+  },
+  {
+    "testo": "risaliva",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "ponte",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "talchè",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "vederla",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "parve",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "luccicar",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "gioie",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "contrasto",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "sole",
+    "entita": ""
+  },
+  {
+    "testo": "sulla",
+    "entita": ""
+  },
+  {
+    "testo": "veletta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ella",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "accendesse",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "fiamma",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "spirito",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "vino",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Gli",
+    "entita": ""
+  },
+  {
+    "testo": "parve",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "essere",
+    "entita": ""
+  },
+  {
+    "testo": "alto",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
   },
   {
     "testo": "monte",
@@ -72,36 +2680,1768 @@
     "entita": "LOC"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "stavano",
+    "entita": ""
+  },
+  {
+    "testo": "girando",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "bastasse",
+    "entita": ""
+  },
+  {
+    "testo": "ancora",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "contenere",
+    "entita": ""
+  },
+  {
+    "testo": "tutta",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sua",
+    "entita": ""
+  },
+  {
+    "testo": "felicità",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
     "testo": "Paolina",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "trentasei",
+    "entita": ""
+  },
+  {
+    "testo": "anni",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "vita",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "egli",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "amato",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "almeno",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sulla",
+    "entita": ""
+  },
+  {
+    "testo": "quale",
+    "entita": ""
+  },
+  {
+    "testo": "avesse",
+    "entita": ""
+  },
+  {
+    "testo": "voluto",
+    "entita": ""
+  },
+  {
+    "testo": "fondare",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "pensiero",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "conclusione",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "vedersela",
+    "entita": ""
+  },
+  {
+    "testo": "ora",
+    "entita": ""
+  },
+  {
+    "testo": "davanti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "passi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "bella",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "rosa",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "signor",
+    "entita": ""
   },
   {
     "testo": "Malignoni",
     "entita": "PER"
   },
   {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "invidiava",
+    "entita": ""
+  },
+  {
+    "testo": "nessuno",
+    "entita": ""
+  },
+  {
+    "testo": "de",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "suoi",
+    "entita": ""
+  },
+  {
+    "testo": "vicini",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "nemmeno",
+    "entita": ""
+  },
+  {
+    "testo": "quell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "inglese",
+    "entita": ""
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "americano",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "mezz",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ora",
+    "entita": ""
+  },
+  {
+    "testo": "andava",
+    "entita": ""
+  },
+  {
+    "testo": "contando",
+    "entita": ""
+  },
+  {
+    "testo": "monete",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "oro",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "argento",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Sei",
+    "entita": "MISC"
+  },
+  {
+    "testo": "contenta",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Sì",
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": "MISC"
+  },
+  {
+    "testo": "un",
+    "entita": "MISC"
+  },
+  {
+    "testo": "po",
+    "entita": "MISC"
+  },
+  {
+    "testo": "'",
+    "entita": "MISC"
+  },
+  {
+    "testo": "freddo",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "E",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "stringeva",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "scialle",
+    "entita": ""
+  },
+  {
+    "testo": "scozzese",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "volesse",
+    "entita": ""
+  },
+  {
+    "testo": "farsi",
+    "entita": ""
+  },
+  {
+    "testo": "poca",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "sparire",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Hai",
+    "entita": "MISC"
+  },
+  {
+    "testo": "fame",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": "MISC"
+  },
+  {
+    "testo": "--",
+    "entita": "MISC"
+  },
+  {
     "testo": "Nulla",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Io",
+    "entita": "MISC"
+  },
+  {
+    "testo": "ho",
+    "entita": "MISC"
+  },
+  {
+    "testo": "fame",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Io",
+    "entita": "MISC"
+  },
+  {
+    "testo": "no",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": "MISC"
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Vuoi",
     "entita": "LOC"
   },
   {
-    "testo": "Vuoi",
-    "entita": "PER"
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "andiamo",
+    "entita": ""
+  },
+  {
+    "testo": "nella",
+    "entita": ""
+  },
+  {
+    "testo": "sala",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "No",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "stiamo",
+    "entita": ""
+  },
+  {
+    "testo": "qui",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "È",
+    "entita": ""
+  },
+  {
+    "testo": "bello",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "vero",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "bello",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Sì",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "molto",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Vuoi",
     "entita": "PER"
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "caffè",
+    "entita": ""
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "tazza",
+    "entita": ""
+  },
+  {
+    "testo": "dì",
+    "entita": ""
+  },
+  {
+    "testo": "birra",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Ti",
+    "entita": ""
+  },
+  {
+    "testo": "pare",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Sto",
+    "entita": ""
+  },
+  {
+    "testo": "bene",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Tornavano",
-    "entita": "LOC"
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "tacere",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "pezzo",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Quelle",
+    "entita": ""
+  },
+  {
+    "testo": "rive",
+    "entita": ""
+  },
+  {
+    "testo": "strette",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "acqua",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "verde",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "monti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "succedersi",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "colori",
+    "entita": ""
+  },
+  {
+    "testo": "dai",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "chiassosi",
+    "entita": ""
+  },
+  {
+    "testo": "ai",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "delicati",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dal",
+    "entita": ""
+  },
+  {
+    "testo": "vino",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "latte",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "villetta",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "zucchero",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "incassatura",
+    "entita": ""
+  },
+  {
+    "testo": "rocciosa",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "tosta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "irta",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "punte",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "succedersi",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "artifici",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "andare",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "godere",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "spanna",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sasso",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "bricca",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "pratello",
+    "entita": ""
+  },
+  {
+    "testo": "largo",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "fazzoletto",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "quell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aprirsi",
+    "entita": ""
+  },
+  {
+    "testo": "sfacciato",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "nuovi",
+    "entita": ""
+  },
+  {
+    "testo": "immensi",
+    "entita": ""
+  },
+  {
+    "testo": "bacini",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "acqua",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pieni",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "azzurro",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "luce",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "là",
+    "entita": ""
+  },
+  {
+    "testo": "dove",
+    "entita": ""
+  },
+  {
+    "testo": "pareva",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "fosse",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "finito",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "chiacchierare",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "gente",
+    "entita": ""
+  },
+  {
+    "testo": "ad",
+    "entita": ""
+  },
+  {
+    "testo": "ogni",
+    "entita": ""
+  },
+  {
+    "testo": "stazione",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "battello",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "riva",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "chi",
+    "entita": ""
+  },
+  {
+    "testo": "scende",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "chi",
+    "entita": ""
+  },
+  {
+    "testo": "sale",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "tonfo",
+    "entita": ""
+  },
+  {
+    "testo": "misurato",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "ruote",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suono",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "campana",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "ridesta",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "echi",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "pascoli",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "quello",
+    "entita": ""
+  },
+  {
+    "testo": "spettacolo",
+    "entita": ""
+  },
+  {
+    "testo": "insomma",
+    "entita": ""
+  },
+  {
+    "testo": "mosso",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "chiuso",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "coperchi",
+    "entita": ""
+  },
+  {
+    "testo": "lucidi",
+    "entita": ""
+  },
+  {
+    "testo": "ed",
+    "entita": ""
+  },
+  {
+    "testo": "opalini",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "acqua",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "cielo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "occupava",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "anima",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
   },
   {
     "testo": "Paolina",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "pure",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "deve",
+    "entita": ""
+  },
+  {
+    "testo": "credere",
+    "entita": ""
+  },
+  {
+    "testo": "ch",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ella",
+    "entita": ""
+  },
+  {
+    "testo": "facesse",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "occuparsene",
+    "entita": ""
+  },
+  {
+    "testo": "....",
+    "entita": ""
+  },
+  {
+    "testo": "La",
+    "entita": ""
+  },
+  {
+    "testo": "natura",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "dipingeva",
+    "entita": ""
+  },
+  {
+    "testo": "innanzi",
+    "entita": ""
+  },
+  {
+    "testo": "bella",
+    "entita": ""
+  },
+  {
+    "testo": "ed",
+    "entita": ""
+  },
+  {
+    "testo": "innocente",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ed",
+    "entita": ""
+  },
+  {
+    "testo": "essa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "contenta",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "trovarsi",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "gente",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "raggio",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sole",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "avrebbe",
+    "entita": ""
+  },
+  {
+    "testo": "voluto",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "viaggio",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "terminasse",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
   },
   {
     "testo": "Alpi",
     "entita": "LOC"
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "aprissero",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "dar",
+    "entita": ""
+  },
+  {
+    "testo": "luogo",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "altro",
+    "entita": ""
+  },
+  {
+    "testo": "lago",
+    "entita": ""
+  },
+  {
+    "testo": "sterminato",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Il",
+    "entita": ""
   },
   {
     "testo": "bacino",
@@ -116,92 +4456,2104 @@
     "entita": "LOC"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "malinconico",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "degli",
+    "entita": ""
+  },
+  {
+    "testo": "altri",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "rispondeva",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ordine",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "suoi",
+    "entita": ""
+  },
+  {
+    "testo": "desiderii",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "guardando",
+    "entita": ""
+  },
+  {
+    "testo": "su",
+    "entita": ""
+  },
+  {
+    "testo": "ai",
+    "entita": ""
+  },
+  {
+    "testo": "nudi",
+    "entita": ""
+  },
+  {
+    "testo": "ceppi",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "montagne",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "alcune",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "quali",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "picco",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "alle",
+    "entita": ""
+  },
+  {
+    "testo": "creste",
+    "entita": ""
+  },
+  {
+    "testo": "disabitate",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "certi",
+    "entita": ""
+  },
+  {
+    "testo": "andirivieni",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "luoghi",
+    "entita": ""
+  },
+  {
+    "testo": "dirupati",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "augurava",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "cuor",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "esservi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "importa",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "perduta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "notte",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "mezzo",
+    "entita": ""
+  },
+  {
+    "testo": "alla",
+    "entita": ""
+  },
+  {
+    "testo": "bufera",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Si",
+    "entita": ""
+  },
+  {
+    "testo": "doveva",
+    "entita": ""
+  },
+  {
+    "testo": "stare",
+    "entita": ""
+  },
+  {
+    "testo": "tanto",
+    "entita": ""
+  },
+  {
+    "testo": "bene",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "nicchia",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "lassù",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dove",
+    "entita": ""
+  },
+  {
+    "testo": "mirava",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "uccellaccio",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
     "testo": "Vedeva",
-    "entita": "LOC"
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "muricciuolo",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "cimitero",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "dormire",
+    "entita": ""
+  },
+  {
+    "testo": "lassù",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "sempre",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ombra",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "faggi",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "castagni",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "povera",
+    "entita": ""
+  },
+  {
+    "testo": "croce",
+    "entita": ""
+  },
+  {
+    "testo": "sul",
+    "entita": ""
+  },
+  {
+    "testo": "capo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "questo",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "pareva",
+    "entita": ""
+  },
+  {
+    "testo": "bello",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "quell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "istante",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
   },
   {
     "testo": "Sebastiano",
     "entita": "PER"
   },
   {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "lasciata",
+    "entita": ""
+  },
+  {
+    "testo": "sola",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "scendere",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "mangiare",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "boccone",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Man",
+    "entita": ""
+  },
+  {
+    "testo": "mano",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "procedeva",
+    "entita": ""
+  },
+  {
+    "testo": "verso",
+    "entita": ""
+  },
+  {
     "testo": "Bellagio",
     "entita": "LOC"
   },
   {
-    "testo": "Menaggio",
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "battello",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "faceva",
+    "entita": ""
+  },
+  {
+    "testo": "sempre",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "affollato",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "tutti",
+    "entita": ""
+  },
+  {
+    "testo": "correvano",
+    "entita": ""
+  },
+  {
+    "testo": "alle",
+    "entita": ""
+  },
+  {
+    "testo": "regate",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Le",
+    "entita": ""
+  },
+  {
+    "testo": "ville",
+    "entita": ""
+  },
+  {
+    "testo": "portavano",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "bandiera",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "sandolini",
+    "entita": ""
+  },
+  {
+    "testo": "dipinti",
+    "entita": ""
+  },
+  {
+    "testo": "colle",
+    "entita": ""
+  },
+  {
+    "testo": "signorine",
+    "entita": ""
+  },
+  {
+    "testo": "dentro",
+    "entita": ""
+  },
+  {
+    "testo": "tutte",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "fiori",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "nastri",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "parasoli",
+    "entita": ""
+  },
+  {
+    "testo": "bianchi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "verdi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "rossi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "cilestri",
     "entita": "LOC"
+  },
+  {
+    "testo": "venivano",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "frotta",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "delfini",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "prendere",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "onda",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "vapore",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "s",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "intendevano",
+    "entita": ""
+  },
+  {
+    "testo": "strilli",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "gioia",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "campane",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "festa",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "largo",
+    "entita": ""
+  },
+  {
+    "testo": "bacino",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Menaggio",
+    "entita": ""
+  },
+  {
+    "testo": "cominciava",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "spalancarsi",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "grande",
+    "entita": ""
+  },
+  {
+    "testo": "scena",
+    "entita": ""
+  },
+  {
+    "testo": "scintillante",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "circonfusa",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "nebbia",
+    "entita": ""
+  },
+  {
+    "testo": "rosea",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "udivano",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "spari",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "mortaretti",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "poi",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suono",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "bande",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "passavano",
+    "entita": ""
+  },
+  {
+    "testo": "nelle",
+    "entita": ""
+  },
+  {
+    "testo": "barche",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "elmi",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
   },
   {
     "testo": "Scipio",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Paolina",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Belaccio",
     "entita": "PER"
   },
   {
-    "testo": "Bastiano",
-    "entita": "LOC"
+    "testo": ";",
+    "entita": ""
   },
   {
-    "testo": "Hôtel",
-    "entita": "LOC"
+    "testo": "venivano",
+    "entita": ""
+  },
+  {
+    "testo": "acuti",
+    "entita": ""
+  },
+  {
+    "testo": "profumi",
+    "entita": ""
+  },
+  {
+    "testo": "dalle",
+    "entita": ""
+  },
+  {
+    "testo": "serre",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "dagli",
+    "entita": ""
+  },
+  {
+    "testo": "spallierati",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "limoni",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "erano",
+    "entita": ""
+  },
+  {
+    "testo": "tutti",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "festa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "povera",
+    "entita": ""
   },
   {
     "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "!",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Si",
+    "entita": ""
+  },
+  {
+    "testo": "svegliarono",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "dame",
+    "entita": ""
+  },
+  {
+    "testo": "inglesi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "vecchie",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "gran",
+    "entita": ""
+  },
+  {
+    "testo": "bisbiglio",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "grandi",
+    "entita": ""
+  },
+  {
+    "testo": "panieri",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "loro",
+    "entita": ""
+  },
+  {
+    "testo": "cappelli",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "segnavano",
+    "entita": ""
+  },
+  {
+    "testo": "col",
+    "entita": ""
+  },
+  {
+    "testo": "dito",
+    "entita": ""
+  },
+  {
+    "testo": "Belaccio",
+    "entita": "ORG"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "Belaccio",
     "entita": "LOC"
   },
   {
-    "testo": "Americana",
-    "entita": "LOC"
+    "testo": ".",
+    "entita": ""
   },
   {
-    "testo": "Americana",
-    "entita": "LOC"
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Questa",
+    "entita": ""
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "meta",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "nostri",
+    "entita": ""
+  },
+  {
+    "testo": "sposi",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "La",
+    "entita": ""
+  },
+  {
+    "testo": "gente",
+    "entita": ""
+  },
+  {
+    "testo": "cominciò",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "discendere",
+    "entita": ""
+  },
+  {
+    "testo": "accalcandosi",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": "stava",
+    "entita": ""
+  },
+  {
+    "testo": "attento",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "schivare",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "Hôtel",
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "pregava",
+    "entita": ""
+  },
+  {
+    "testo": "Paolina",
+    "entita": "PER"
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "cercare",
+    "entita": ""
+  },
+  {
+    "testo": "cogli",
+    "entita": ""
+  },
+  {
+    "testo": "occhi",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "Trattoria",
+    "entita": "ORG"
+  },
+  {
+    "testo": "Americana",
+    "entita": "ORG"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dove",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "mangia",
+    "entita": ""
+  },
+  {
+    "testo": "bene",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "sonno",
+    "entita": ""
+  },
+  {
+    "testo": "ciascuno",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "porta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "paga",
+    "entita": ""
+  },
+  {
+    "testo": "poco",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "sta",
+    "entita": ""
+  },
+  {
+    "testo": "senza",
+    "entita": ""
+  },
+  {
+    "testo": "soggezione",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "ma",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
+  },
+  {
+    "testo": "punto",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "signore",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "vero",
+    "entita": ""
+  },
+  {
+    "testo": "gentiluomo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pulito",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "cortese",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "buon",
+    "entita": ""
+  },
+  {
+    "testo": "padre",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "famiglia",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "tolse",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "valigia",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "mano",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Americana",
     "entita": "LOC"
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Americana",
+    "entita": "LOC"
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "domandò",
+    "entita": ""
+  },
+  {
+    "testo": "Bastiano",
+    "entita": "PER"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Oui",
-    "entita": "LOC"
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "par",
+    "entita": ""
+  },
+  {
+    "testo": "ici",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
   },
   {
     "testo": "monsieur",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Il",
+    "entita": "MISC"
+  },
+  {
+    "testo": "buon",
+    "entita": "MISC"
+  },
+  {
+    "testo": "signore",
+    "entita": "MISC"
+  },
+  {
+    "testo": "passò",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "valigia",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "altro",
+    "entita": ""
+  },
+  {
+    "testo": "signore",
+    "entita": ""
+  },
+  {
+    "testo": "coi",
+    "entita": ""
+  },
+  {
+    "testo": "favoriti",
+    "entita": ""
+  },
+  {
+    "testo": "biondi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "buttò",
+    "entita": ""
+  },
+  {
+    "testo": "sull",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "imperiale",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "omnibus",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Entrez",
-    "entita": "LOC"
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
   },
   {
     "testo": "monsieur",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
   },
   {
     "testo": "entrez",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Americana",
     "entita": "LOC"
   },
   {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "tornò",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "domandare",
+    "entita": ""
+  },
+  {
     "testo": "Bastiano",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sentendosi",
+    "entita": ""
+  },
+  {
+    "testo": "sospinto",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "sacco",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "accorgendosi",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "col",
+    "entita": ""
+  },
+  {
+    "testo": "parlare",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "monosillabi",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "faceva",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "ribadire",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "opinione",
+    "entita": ""
+  },
+  {
+    "testo": "storta",
+    "entita": ""
+  },
+  {
+    "testo": "nella",
+    "entita": ""
+  },
+  {
+    "testo": "testa",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "bravi",
+    "entita": ""
+  },
+  {
+    "testo": "signori",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Si",
+    "entita": ""
+  },
+  {
+    "testo": "trovò",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "potesse",
+    "entita": ""
+  },
+  {
+    "testo": "orientarsi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "insaccato",
+    "entita": ""
+  },
+  {
+    "testo": "nell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "omnibus",
+    "entita": ""
+  },
+  {
+    "testo": "fra",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "dozzina",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
   },
   {
     "testo": "yes",
     "entita": "ORG"
   },
   {
+    "testo": "lontano",
+    "entita": ""
+  },
+  {
+    "testo": "sei",
+    "entita": ""
+  },
+  {
+    "testo": "posti",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
     "testo": "Paolina",
     "entita": "PER"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "In",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "trotti",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ossia",
+    "entita": ""
+  },
+  {
+    "testo": "cinquanta",
+    "entita": ""
+  },
+  {
+    "testo": "passi",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "cavallo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "omnibus",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "fermò",
+    "entita": ""
+  },
+  {
+    "testo": "innanzi",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "grand",
+    "entita": ""
   },
   {
     "testo": "Hôtel",
@@ -212,127 +6564,4259 @@
     "entita": "LOC"
   },
   {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "L",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "albergo",
+    "entita": ""
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "chiuso",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "giro",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "gran",
+    "entita": ""
+  },
+  {
+    "testo": "cancellata",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "punte",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "oro",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "serrava",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "gran",
+    "entita": ""
+  },
+  {
+    "testo": "giardino",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "inglese",
+    "entita": ""
+  },
+  {
+    "testo": ":",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "c",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "era",
+    "entita": ""
+  },
+  {
+    "testo": "scampo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "bisognava",
+    "entita": ""
+  },
+  {
+    "testo": "rassegnarsi",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Alla",
+    "entita": ""
+  },
+  {
+    "testo": "fin",
+    "entita": ""
+  },
+  {
+    "testo": "fine",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "viaggio",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "nozze",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "fa",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "volta",
+    "entita": ""
+  },
+  {
+    "testo": "sola",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Un",
+    "entita": ""
+  },
+  {
+    "testo": "giovinetto",
+    "entita": ""
+  },
+  {
+    "testo": "biondo",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "lino",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "falda",
+    "entita": ""
+  },
+  {
+    "testo": "nera",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "colle",
+    "entita": ""
+  },
+  {
+    "testo": "scarpettine",
+    "entita": ""
+  },
+  {
+    "testo": "alla",
+    "entita": ""
+  },
+  {
+    "testo": "francese",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pettinato",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "lui",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "sposino",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "li",
+    "entita": ""
+  },
+  {
+    "testo": "precedette",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "scalone",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "marmo",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ornato",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "statue",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "candelabri",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "specchi",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "acacie",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "tintinnando",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "chiavi",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "senza",
+    "entita": ""
+  },
+  {
+    "testo": "mai",
+    "entita": ""
+  },
+  {
+    "testo": "parlare",
+    "entita": ""
+  },
+  {
+    "testo": "li",
+    "entita": ""
+  },
+  {
+    "testo": "condusse",
+    "entita": ""
+  },
+  {
+    "testo": "au",
+    "entita": ""
+  },
+  {
+    "testo": "cinquième",
+    "entita": ""
+  },
+  {
+    "testo": "fino",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "camera",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "riusciva",
+    "entita": ""
+  },
+  {
+    "testo": "sopra",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "cortile",
+    "entita": ""
+  },
+  {
+    "testo": "stretto",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "profondo",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "tetro",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "pozzo",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "A",
+    "entita": "MISC"
+  },
+  {
+    "testo": "onze",
+    "entita": "MISC"
+  },
+  {
+    "testo": "heures",
+    "entita": "MISC"
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "déjeuner",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "s",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "vous",
+    "entita": ""
+  },
+  {
+    "testo": "plait",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "disse",
+    "entita": ""
+  },
+  {
+    "testo": "stando",
+    "entita": ""
+  },
+  {
+    "testo": "sull",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "uscio",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "licenziarsi",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
     "testo": "Cosa",
-    "entita": "ORG"
+    "entita": "MISC"
   },
   {
     "testo": "?",
-    "entita": "ORG"
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "domandò",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
     "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "cominciava",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "credere",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "essere",
+    "entita": ""
+  },
+  {
+    "testo": "nel",
+    "entita": ""
+  },
+  {
+    "testo": "mondo",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
   },
   {
     "testo": "luna",
     "entita": "LOC"
   },
   {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "C",
+    "entita": "MISC"
+  },
+  {
+    "testo": "'",
+    "entita": "MISC"
+  },
+  {
+    "testo": "est",
+    "entita": "MISC"
+  },
+  {
     "testo": "bien",
-    "entita": "LOC"
+    "entita": "MISC"
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "affrettò",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "dire",
+    "entita": ""
   },
   {
     "testo": "Paolina",
     "entita": "PER"
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "sbarazzarsene",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "I",
+    "entita": ""
+  },
+  {
+    "testo": "coniugi",
+    "entita": ""
   },
   {
     "testo": "Malignoni",
     "entita": "PER"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "rimasti",
+    "entita": ""
+  },
+  {
+    "testo": "soli",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "guardarono",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "faccia",
+    "entita": ""
+  },
+  {
+    "testo": "senza",
+    "entita": ""
+  },
+  {
+    "testo": "aprir",
+    "entita": ""
+  },
+  {
+    "testo": "bocca",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Ti",
+    "entita": ""
+  },
+  {
+    "testo": "avevo",
+    "entita": ""
+  },
+  {
+    "testo": "pur",
+    "entita": ""
+  },
+  {
+    "testo": "detto",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "stare",
+    "entita": ""
+  },
+  {
+    "testo": "attenta",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
     "testo": "Americana",
     "entita": "LOC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "A",
+    "entita": ""
+  },
+  {
+    "testo": "me",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "tocca",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "me",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "cercare",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "albergo",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Così",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "oltre",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "pagare",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "occhio",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "testa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "potrà",
+    "entita": ""
+  },
+  {
+    "testo": "veder",
+    "entita": ""
+  },
+  {
+    "testo": "nulla",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "mangiar",
+    "entita": ""
+  },
+  {
+    "testo": "nulla",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "capir",
+    "entita": ""
+  },
+  {
+    "testo": "nulla",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Abbiamo",
+    "entita": ""
+  },
+  {
+    "testo": "però",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "bella",
+    "entita": ""
+  },
+  {
+    "testo": "vista",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "disse",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "sogghignerò",
+    "entita": ""
+  },
+  {
+    "testo": "sardonico",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sposina",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ficcando",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "sguardo",
+    "entita": ""
+  },
+  {
+    "testo": "nel",
+    "entita": ""
+  },
+  {
+    "testo": "fondo",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "cortile",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Per",
+    "entita": ""
+  },
+  {
+    "testo": "me",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "scusami",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ma",
+    "entita": ""
+  },
+  {
+    "testo": "io",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "ci",
+    "entita": ""
+  },
+  {
+    "testo": "sto",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "esclamò",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "sposo",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Che",
+    "entita": ""
+  },
+  {
+    "testo": "vuoi",
+    "entita": ""
+  },
+  {
+    "testo": "fare",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Vuoi",
-    "entita": "PER"
+    "entita": "MISC"
+  },
+  {
+    "testo": "morire",
+    "entita": "MISC"
+  },
+  {
+    "testo": "di",
+    "entita": "MISC"
+  },
+  {
+    "testo": "febbre",
+    "entita": "MISC"
+  },
+  {
+    "testo": "gialla",
+    "entita": "MISC"
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "itterizia",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Ebbene",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "ti",
+    "entita": ""
+  },
+  {
+    "testo": "cambino",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "stanza",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Non",
+    "entita": ""
+  },
+  {
+    "testo": "capiscono",
+    "entita": ""
+  },
+  {
+    "testo": "niente",
+    "entita": ""
+  },
+  {
+    "testo": ":",
+    "entita": ""
+  },
+  {
+    "testo": "sembra",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "paese",
+    "entita": ""
+  },
+  {
+    "testo": "dei",
+    "entita": ""
+  },
+  {
+    "testo": "tartari",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "E",
+    "entita": ""
+  },
+  {
+    "testo": "allora",
+    "entita": ""
+  },
+  {
+    "testo": "rassegnamoci",
+    "entita": ""
+  },
+  {
+    "testo": "fino",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "domattina",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Sai",
-    "entita": "PER"
+    "entita": "MISC"
+  },
+  {
+    "testo": "cosa",
+    "entita": "MISC"
+  },
+  {
+    "testo": "faccio",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": "MISC"
+  },
+  {
+    "testo": "vado",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "vedere",
+    "entita": ""
+  },
+  {
+    "testo": "dov",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "questa",
+    "entita": ""
+  },
+  {
+    "testo": "famosa",
+    "entita": ""
   },
   {
     "testo": "Americana",
     "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "luogo",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "proprio",
+    "entita": ""
+  },
+  {
+    "testo": "come",
+    "entita": ""
+  },
+  {
+    "testo": "dicono",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "lasciamo",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "valigia",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "pranziamo",
+    "entita": ""
+  },
+  {
+    "testo": "là",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Almeno",
-    "entita": "LOC"
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "sa",
+    "entita": ""
+  },
+  {
+    "testo": "quello",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "mangia",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Che",
+    "entita": ""
+  },
+  {
+    "testo": "ne",
+    "entita": ""
+  },
+  {
+    "testo": "dici",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Io",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": "MISC"
+  },
+  {
+    "testo": "nulla",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "No",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "devi",
+    "entita": ""
+  },
+  {
+    "testo": "dire",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "tuo",
+    "entita": ""
+  },
+  {
+    "testo": "parere",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Che",
+    "entita": "MISC"
+  },
+  {
+    "testo": "cosa",
+    "entita": "MISC"
+  },
+  {
+    "testo": "devo",
+    "entita": "MISC"
+  },
+  {
+    "testo": "dire",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": "MISC"
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Qualche",
+    "entita": "MISC"
+  },
+  {
+    "testo": "cosa",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Andiamo",
-    "entita": "PER"
+    "entita": "LOC"
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "pranzo",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
   },
   {
     "testo": "Americana",
     "entita": "LOC"
   },
   {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Me",
+    "entita": "MISC"
+  },
+  {
+    "testo": "lo",
+    "entita": "MISC"
+  },
+  {
+    "testo": "dici",
+    "entita": "MISC"
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "tanta",
+    "entita": ""
+  },
+  {
+    "testo": "noia",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Ti",
+    "entita": ""
+  },
+  {
+    "testo": "pare",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Sono",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "po",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "stanca",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Allora",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "faccio",
+    "entita": ""
+  },
+  {
+    "testo": "così",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Sì",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "sì",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
     "testo": "Addio",
-    "entita": "PER"
+    "entita": "MISC"
+  },
+  {
+    "testo": ",",
+    "entita": "MISC"
+  },
+  {
+    "testo": "angelo",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "E",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "carezzò",
+    "entita": ""
+  },
+  {
+    "testo": "colla",
+    "entita": ""
+  },
+  {
+    "testo": "punta",
+    "entita": ""
+  },
+  {
+    "testo": "delle",
+    "entita": ""
+  },
+  {
+    "testo": "dita",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Io",
+    "entita": "MISC"
+  },
+  {
+    "testo": "ti",
+    "entita": "MISC"
+  },
+  {
+    "testo": "aspetto",
+    "entita": "MISC"
+  },
+  {
+    "testo": "qui",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Sì",
+    "entita": ""
+  },
+  {
+    "testo": "....",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "mi",
+    "entita": ""
+  },
+  {
+    "testo": "vuoi",
+    "entita": ""
+  },
+  {
+    "testo": "bene",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Che",
+    "entita": ""
+  },
+  {
+    "testo": "ragazzo",
+    "entita": ""
+  },
+  {
+    "testo": "!",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Stella",
-    "entita": "LOC"
+    "entita": "MISC"
+  },
+  {
+    "testo": "!",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
-    "entita": "LOC"
+    "entita": "PER"
+  },
+  {
+    "testo": "uscì",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Paolina",
     "entita": "PER"
   },
   {
+    "testo": "girò",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "chiave",
+    "entita": ""
+  },
+  {
+    "testo": "nella",
+    "entita": ""
+  },
+  {
+    "testo": "toppa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "tolse",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "addosso",
+    "entita": ""
+  },
+  {
+    "testo": "lo",
+    "entita": ""
+  },
+  {
+    "testo": "scialle",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "casacchino",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "li",
+    "entita": ""
+  },
+  {
+    "testo": "gettò",
+    "entita": ""
+  },
+  {
+    "testo": "sul",
+    "entita": ""
+  },
+  {
+    "testo": "letto",
+    "entita": ""
+  },
+  {
+    "testo": "insieme",
+    "entita": ""
+  },
+  {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "cappello",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "chiuse",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "finestra",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "buttò",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "poltrona",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "portò",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "fazzoletto",
+    "entita": ""
+  },
+  {
+    "testo": "alla",
+    "entita": ""
+  },
+  {
+    "testo": "bocca",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "pianse",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "senza",
+    "entita": ""
+  },
+  {
+    "testo": "lagrime",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pianse",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "gioia",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "trovarsi",
+    "entita": ""
+  },
+  {
+    "testo": "sola",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
     "testo": "Bastiano",
     "entita": "PER"
+  },
+  {
+    "testo": "uscì",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aria",
+    "entita": ""
+  },
+  {
+    "testo": "aperta",
+    "entita": ""
+  },
+  {
+    "testo": "colle",
+    "entita": ""
+  },
+  {
+    "testo": "orecchie",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "po",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "calde",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Sotto",
+    "entita": ""
+  },
+  {
+    "testo": "alla",
+    "entita": ""
+  },
+  {
+    "testo": "sua",
+    "entita": ""
+  },
+  {
+    "testo": "grande",
+    "entita": ""
+  },
+  {
+    "testo": "felicità",
+    "entita": ""
+  },
+  {
+    "testo": "sentiva",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "mezza",
+    "entita": ""
+  },
+  {
+    "testo": "volontà",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "strozzare",
+    "entita": ""
+  },
+  {
+    "testo": "qualcuno",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Passata",
+    "entita": ""
+  },
+  {
+    "testo": "però",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "agitazione",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "scoperta",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sua",
+    "entita": ""
   },
   {
     "testo": "Americana",
     "entita": "LOC"
   },
   {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "portici",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "buco",
+    "entita": ""
+  },
+  {
+    "testo": "fatto",
+    "entita": ""
+  },
+  {
+    "testo": "apposta",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "loro",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "tornò",
+    "entita": ""
+  },
+  {
+    "testo": "tutto",
+    "entita": ""
+  },
+  {
+    "testo": "contento",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "albergo",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "trarne",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "sua",
+    "entita": ""
+  },
+  {
+    "testo": "povera",
+    "entita": ""
+  },
+  {
+    "testo": "alma",
+    "entita": ""
+  },
+  {
+    "testo": "consorte",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "lasciata",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "quella",
+    "entita": ""
+  },
+  {
+    "testo": "muda",
+    "entita": "LOC"
+  },
+  {
+    "testo": "lassù",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Quando",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "sembrò",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "essere",
+    "entita": ""
+  },
+  {
+    "testo": "salito",
+    "entita": ""
+  },
+  {
+    "testo": "alto",
+    "entita": ""
+  },
+  {
+    "testo": "abbastanza",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "ricordò",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "aver",
+    "entita": ""
+  },
+  {
+    "testo": "osservato",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "numero",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "stanza",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "discese",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "scala",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "vedere",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "orientarsi",
+    "entita": ""
+  },
+  {
+    "testo": "coll",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "occhio",
+    "entita": ""
+  },
+  {
+    "testo": ";",
+    "entita": ""
+  },
+  {
+    "testo": "infilò",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "corridoio",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "destra",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "andito",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "sinistra",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ma",
+    "entita": ""
+  },
+  {
+    "testo": "sebbene",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "ci",
+    "entita": ""
+  },
+  {
+    "testo": "fosse",
+    "entita": ""
+  },
+  {
+    "testo": "dubbio",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "scala",
+    "entita": ""
+  },
+  {
+    "testo": "fosse",
+    "entita": ""
+  },
+  {
+    "testo": "quella",
+    "entita": ""
+  },
+  {
+    "testo": "stessa",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "pure",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "pareva",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "vedere",
+    "entita": ""
+  },
+  {
+    "testo": "qualche",
+    "entita": ""
+  },
+  {
+    "testo": "cosa",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "veduto",
+    "entita": ""
+  },
+  {
+    "testo": "prima",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Per",
+    "entita": ""
+  },
+  {
+    "testo": "quanto",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "pesasse",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "discese",
+    "entita": ""
+  },
+  {
+    "testo": "ad",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "ad",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "gradini",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "fino",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "atrio",
+    "entita": ""
+  },
+  {
+    "testo": "del",
+    "entita": ""
+  },
+  {
+    "testo": "pianterreno",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "accostò",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ufficio",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "dove",
+    "entita": ""
+  },
+  {
+    "testo": "stava",
+    "entita": ""
+  },
+  {
+    "testo": "scrivendo",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "signore",
+    "entita": ""
+  },
+  {
+    "testo": "grasso",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "domandò",
+    "entita": ""
+  },
+  {
+    "testo": "con",
+    "entita": ""
+  },
+  {
+    "testo": "tutta",
+    "entita": ""
+  },
+  {
+    "testo": "bella",
+    "entita": ""
+  },
+  {
+    "testo": "grazia",
+    "entita": ""
+  },
+  {
+    "testo": ":",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
     "testo": "Perdoni",
     "entita": "PER"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "mi",
+    "entita": ""
+  },
+  {
+    "testo": "saprebbe",
+    "entita": ""
+  },
+  {
+    "testo": "indicare",
+    "entita": ""
+  },
+  {
+    "testo": "dov",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "mia",
+    "entita": ""
+  },
+  {
+    "testo": "camera",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Il",
+    "entita": "MISC"
+  },
+  {
+    "testo": "numero",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Non",
+    "entita": "MISC"
+  },
+  {
+    "testo": "ho",
+    "entita": "MISC"
+  },
+  {
+    "testo": "guardato",
+    "entita": "MISC"
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "La",
+    "entita": ""
+  },
+  {
+    "testo": "chiave",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "L",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "ho",
+    "entita": ""
+  },
+  {
+    "testo": "lasciata",
+    "entita": ""
+  },
+  {
+    "testo": "nell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
     "testo": "uscio",
-    "entita": "LOC"
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
   },
   {
     "testo": "Domandi",
     "entita": "PER"
   },
   {
+    "testo": "al",
+    "entita": ""
+  },
+  {
+    "testo": "cameriere",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Meno",
+    "entita": "MISC"
+  },
+  {
+    "testo": "male",
+    "entita": "MISC"
+  },
+  {
+    "testo": "!",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "pensò",
+    "entita": ""
+  },
+  {
     "testo": "Bastiano",
     "entita": "PER"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "questi",
+    "entita": ""
+  },
+  {
+    "testo": "almeno",
+    "entita": ""
+  },
+  {
+    "testo": "capisce",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "italiano",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "voltò",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "cercare",
+    "entita": ""
+  },
+  {
+    "testo": "quel",
+    "entita": ""
   },
   {
     "testo": "biondino",
-    "entita": "PER"
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "aveva",
+    "entita": ""
+  },
+  {
+    "testo": "condotto",
+    "entita": ""
+  },
+  {
+    "testo": "su",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Due",
+    "entita": ""
+  },
+  {
+    "testo": "altri",
+    "entita": ""
+  },
+  {
+    "testo": "servitori",
+    "entita": ""
+  },
+  {
+    "testo": "o",
+    "entita": ""
+  },
+  {
+    "testo": "sopraintendenti",
+    "entita": ""
+  },
+  {
+    "testo": "stavano",
+    "entita": ""
+  },
+  {
+    "testo": "sulla",
+    "entita": ""
+  },
+  {
+    "testo": "porta",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "colle",
+    "entita": ""
+  },
+  {
+    "testo": "mani",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "coda",
+    "entita": ""
+  },
+  {
+    "testo": "dell",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "abito",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "atto",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "curiosità",
+    "entita": ""
+  },
+  {
+    "testo": "sfaccendata",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   },
   {
     "testo": "Bastiano",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Bellagio",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Vogliono",
-    "entita": "LOC"
-  },
-  {
-    "testo": "Was",
     "entita": "PER"
   },
   {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "trovando",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
+  },
+  {
+    "testo": "bel",
+    "entita": ""
+  },
+  {
+    "testo": "biondino",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "ricominciò",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "capo",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "salire",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "scala",
+    "entita": ""
+  },
+  {
+    "testo": "colla",
+    "entita": ""
+  },
+  {
+    "testo": "speranza",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "hanno",
+    "entita": ""
+  },
+  {
+    "testo": "tutti",
+    "entita": ""
+  },
+  {
+    "testo": "gli",
+    "entita": ""
+  },
+  {
+    "testo": "scolari",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "andare",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "fine",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "lezione",
+    "entita": ""
+  },
+  {
+    "testo": "spesso",
+    "entita": ""
+  },
+  {
+    "testo": "conviene",
+    "entita": ""
+  },
+  {
+    "testo": "ricominciare",
+    "entita": ""
+  },
+  {
+    "testo": "da",
+    "entita": ""
+  },
+  {
+    "testo": "capo",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Mentre",
+    "entita": ""
+  },
+  {
+    "testo": "andava",
+    "entita": ""
+  },
+  {
+    "testo": "su",
+    "entita": ""
+  },
+  {
+    "testo": "coll",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "affanno",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "chi",
+    "entita": ""
+  },
+  {
+    "testo": "porta",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "sacco",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "sale",
+    "entita": ""
+  },
+  {
+    "testo": "sulla",
+    "entita": ""
+  },
+  {
+    "testo": "montagna",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "vide",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "i",
+    "entita": ""
+  },
+  {
+    "testo": "due",
+    "entita": ""
+  },
+  {
+    "testo": "sopraintendenti",
+    "entita": ""
+  },
+  {
+    "testo": "l",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "osservavano",
+    "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "rìdendo",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "naso",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Questi",
+    "entita": ""
+  },
+  {
+    "testo": "animali",
+    "entita": ""
+  },
+  {
+    "testo": "se",
+    "entita": ""
+  },
+  {
+    "testo": "mi",
+    "entita": ""
+  },
+  {
+    "testo": "vedessero",
+    "entita": ""
+  },
+  {
+    "testo": "annegare",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "mi",
+    "entita": ""
+  },
+  {
+    "testo": "darebbero",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "mano",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "Ricordando",
+    "entita": "MISC"
+  },
+  {
+    "testo": "d",
+    "entita": "MISC"
+  },
+  {
+    "testo": "'",
+    "entita": "MISC"
+  },
+  {
+    "testo": "aver",
+    "entita": "MISC"
+  },
+  {
+    "testo": "inteso",
+    "entita": ""
+  },
+  {
+    "testo": "uno",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "quei",
+    "entita": ""
+  },
+  {
+    "testo": "bravi",
+    "entita": ""
+  },
+  {
+    "testo": "signori",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "più",
+    "entita": ""
+  },
+  {
+    "testo": "canonico",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "parlare",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "dialetto",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
     "testo": "Bellagio",
     "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "che",
+    "entita": ""
+  },
+  {
+    "testo": "è",
+    "entita": ""
+  },
+  {
+    "testo": "anche",
+    "entita": ""
+  },
+  {
+    "testo": "quello",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Monza",
+    "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "spinse",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "testa",
+    "entita": ""
+  },
+  {
+    "testo": "fuori",
+    "entita": ""
+  },
+  {
+    "testo": "della",
+    "entita": ""
+  },
+  {
+    "testo": "ringhiera",
+    "entita": ""
+  },
+  {
+    "testo": "ed",
+    "entita": ""
+  },
+  {
+    "testo": "esclamò",
+    "entita": ""
+  },
+  {
+    "testo": "in",
+    "entita": ""
+  },
+  {
+    "testo": "dialetto",
+    "entita": ""
+  },
+  {
+    "testo": "schietto",
+    "entita": ""
+  },
+  {
+    "testo": ":",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Vogliono",
+    "entita": ""
+  },
+  {
+    "testo": "avere",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "bontà",
+    "entita": ""
+  },
+  {
+    "testo": "quei",
+    "entita": ""
+  },
+  {
+    "testo": "bravi",
+    "entita": ""
+  },
+  {
+    "testo": "signori",
+    "entita": ""
+  },
+  {
+    "testo": "d",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "indicarmi",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "mio",
+    "entita": ""
+  },
+  {
+    "testo": "cameriere",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "un",
+    "entita": ""
+  },
+  {
+    "testo": "bel",
+    "entita": ""
+  },
+  {
+    "testo": "biondino",
+    "entita": ""
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Was",
+    "entita": "MISC"
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "domandò",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "tedesco",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "Bellagio",
+    "entita": "LOC"
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "andando",
+    "entita": ""
+  },
+  {
+    "testo": "presso",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "scala",
+    "entita": ""
+  },
+  {
+    "testo": "col",
+    "entita": ""
+  },
+  {
+    "testo": "viso",
+    "entita": ""
+  },
+  {
+    "testo": "rivolto",
+    "entita": ""
+  },
+  {
+    "testo": "all",
+    "entita": ""
+  },
+  {
+    "testo": "'",
+    "entita": ""
+  },
+  {
+    "testo": "insù",
+    "entita": ""
+  },
+  {
+    "testo": "e",
+    "entita": ""
+  },
+  {
+    "testo": "le",
+    "entita": ""
+  },
+  {
+    "testo": "mani",
+    "entita": ""
+  },
+  {
+    "testo": "sotto",
+    "entita": ""
+  },
+  {
+    "testo": "la",
+    "entita": ""
+  },
+  {
+    "testo": "coda",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Un",
+    "entita": "MISC"
+  },
+  {
+    "testo": "giovinotto",
+    "entita": "MISC"
+  },
+  {
+    "testo": "magrino",
+    "entita": "MISC"
+  },
+  {
+    "testo": "....",
+    "entita": ""
+  },
+  {
+    "testo": "tornò",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "dire",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Was",
+    "entita": "LOC"
+  },
+  {
+    "testo": "sagen",
+    "entita": "LOC"
+  },
+  {
+    "testo": "Sie",
+    "entita": "LOC"
+  },
+  {
+    "testo": "?",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "ripetè",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "canonico",
+    "entita": ""
+  },
+  {
+    "testo": ",",
+    "entita": ""
+  },
+  {
+    "testo": "mentre",
+    "entita": ""
+  },
+  {
+    "testo": "il",
+    "entita": ""
+  },
+  {
+    "testo": "suo",
+    "entita": ""
+  },
+  {
+    "testo": "compare",
+    "entita": ""
+  },
+  {
+    "testo": "si",
+    "entita": ""
+  },
+  {
+    "testo": "nascondeva",
+    "entita": ""
+  },
+  {
+    "testo": "dietro",
+    "entita": ""
+  },
+  {
+    "testo": "una",
+    "entita": ""
+  },
+  {
+    "testo": "colonna",
+    "entita": ""
+  },
+  {
+    "testo": "di",
+    "entita": ""
+  },
+  {
+    "testo": "marmo",
+    "entita": ""
+  },
+  {
+    "testo": "per",
+    "entita": ""
+  },
+  {
+    "testo": "non",
+    "entita": ""
+  },
+  {
+    "testo": "lasciarsi",
+    "entita": ""
+  },
+  {
+    "testo": "scorgere",
+    "entita": ""
+  },
+  {
+    "testo": "a",
+    "entita": ""
+  },
+  {
+    "testo": "ridere",
+    "entita": ""
+  },
+  {
+    "testo": ".",
+    "entita": ""
+  },
+  {
+    "testo": "\n",
+    "entita": ""
+  },
+  {
+    "testo": "--",
+    "entita": ""
+  },
+  {
+    "testo": "Ah",
+    "entita": "MISC"
+  },
+  {
+    "testo": "gabbiano",
+    "entita": "MISC"
+  },
+  {
+    "testo": "!",
+    "entita": "MISC"
+  },
+  {
+    "testo": "\n",
+    "entita": ""
   }
 ]
