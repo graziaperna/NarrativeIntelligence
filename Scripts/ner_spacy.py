@@ -3,15 +3,11 @@ import json
 import os
 from os.path import join
 from pathlib import Path
-class Ner:
-    def __init__(self,model):
-        models={
-            "big": "../modello_semantics_spacy",
-            "medium":"it_core_news_md",
-            "small": "it_core_news_sm"
-        }
 
-        self.model_path = models[model]
+class spacyNer:
+    def __init__(self):
+
+        self.model_path = "../models_spacy_pretrained/model-best"
 
     def processing_entity(self,input_file, output_file):
         nlp = spacy.load(self.model_path)
